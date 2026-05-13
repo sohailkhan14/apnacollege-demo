@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is my git repository
+this is my git repository.
+Auther - sohail khann
